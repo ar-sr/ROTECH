@@ -1,0 +1,1 @@
+As of October, Python  is the stable release, and  and  are the only versions with active (as opposed to just security) support. Notable changes in include increased program execution speed and improved error reporting.
